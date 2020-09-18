@@ -1,0 +1,29 @@
+<%-- 
+    Document   : users
+    Created on : 29-Sep-2015, 9:56:32 PM
+    Author     : awarsyle
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Accounts</title>
+    </head>
+    <body>
+        <h1>Accounts</h1>
+        
+        <h3>Page ${page}</h3>
+        
+        <!-- display a table of all of the accounts -->
+        
+        
+        <!-- handle paging: forward/back -->
+        
+       
+        
+    </body>
+</html>
