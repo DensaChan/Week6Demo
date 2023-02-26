@@ -24,6 +24,7 @@
                 <td>Name</td>
                 <td>View</td>
             </tr>
+            <!-- creates a loop to create many table rows -->
             <c:forEach items="${accounts}" var="account">
                 <tr>
                     <td>${account.name}</td>
